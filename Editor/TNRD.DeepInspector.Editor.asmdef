@@ -1,0 +1,19 @@
+{
+    "name": "TNRD.DeepInspector.Editor",
+    "rootNamespace": "TNRD",
+    "references": [
+        "GUID:f424d5c734565fe4cb16d7ad5aa25633",
+        "GUID:d5d4b3a5b50231f4094da9cc54a3d1ae"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
