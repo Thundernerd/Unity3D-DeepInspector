@@ -19,12 +19,12 @@ Custom drawers that can be used with regular objects/types instead of Serialized
 ## Installation
 1. The package is available on the [openupm registry](https://openupm.com). You can install it via [openupm-cli](https://github.com/openupm/openupm-cli).
 ```
-openupm add net.tnrd.deepInspector
+openupm add net.tnrd.deepinspector
 ```
 
-2. Installing through a [Unity Package](http://package-installer.glitch.me/v1/installer/package.openupm.com/net.tnrd.deepInspector?registry=https://package.openupm.com) created by the [Package Installer Creator](https://package-installer.glitch.me) from [Needle](https://needle.tools)
+2. Installing through a [Unity Package](http://package-installer.glitch.me/v1/installer/package.openupm.com/net.tnrd.deepinspector?registry=https://package.openupm.com) created by the [Package Installer Creator](https://package-installer.glitch.me) from [Needle](https://needle.tools)
 
-[<img src="https://img.shields.io/badge/-Download-success?style=for-the-badge"/>](http://package-installer.glitch.me/v1/installer/package.openupm.com/net.tnrd.deepInspector?registry=https://package.openupm.com)
+[<img src="https://img.shields.io/badge/-Download-success?style=for-the-badge"/>](http://package-installer.glitch.me/v1/installer/package.openupm.com/net.tnrd.deepinspector?registry=https://package.openupm.com)
 
 3. Installing through Package Manager - Git URL
 	- Open the package manager
