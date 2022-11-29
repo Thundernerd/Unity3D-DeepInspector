@@ -21,10 +21,12 @@ namespace TNRD.DeepInspector.Drawers
             
             using (new EditorGUI.IndentLevelScope())
             {
+                EditorGUI.BeginDisabledGroup(instance == null);
                 if (GUI.Button(EditorGUI.IndentedRect(rects[1]), EditorGUIUtility.IconContent("Search On Icon").image))
                 {
                     DeepInspectorWindow.Inspect(instance);
                 }
+                EditorGUI.EndDisabledGroup();
             }
             
             return instance;
